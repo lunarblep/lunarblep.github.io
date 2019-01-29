@@ -1,0 +1,63 @@
+body {
+  background: #e4e2f2;
+  user-select: none;
+  overflow-y: hidden;
+}
+
+a {
+  text-decoration: none;
+}
+
+.letter {
+  display: block;
+  letter-spacing: 24px;
+  font-style: italic;
+  transition: 0.5s all;
+  height: 220px;
+  text-align: center;
+  border-radius: 10px;
+  transform: rotate3d(1, 0, 1, 350deg);
+  margin: -35px 0;
+  text-shadow: 0px 0px black, -1px -1px black, -2px -2px black, -3px -3px black, -4px -4px black, -5px -5px black, -6px -6px black, -7px -7px black, -8px -8px black, -9px -9px black, -10px -10px black, -11px -11px black, -12px -12px black, -13px -13px black, -14px -14px black, -15px -15px black, -16px -16px black, -17px -17px black, -18px -18px black, -19px -19px black, -20px -20px black, -21px -21px black, -22px -22px black, -23px -23px black, -24px -24px black, -25px -25px black, -26px -26px black, -27px -27px black, -28px -28px black, -29px -29px black, -30px -30px black, -31px -31px black, -32px -32px black, -33px -33px black, -34px -34px black, -35px -35px black, -36px -36px black, -37px -37px black, -38px -38px black, -39px -39px black, -40px -40px black;
+  color: white;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
+}
+
+.letter:hover {
+  transform: rotate3d(1, 0, 1, 355deg);
+  text-shadow: 0px 0px #0768D7, -1px -1px #0768D7, -2px -2px #0768D7, -3px -3px #0768D7, -4px -4px #0768D7, -5px -5px #0768D7, -6px -6px #0768D7, -7px -7px #0768D7, -8px -8px #0768D7, -9px -9px #0768D7, -10px -10px #0768D7, -11px -11px #0768D7, -12px -12px #0768D7, -13px -13px #0768D7, -14px -14px #0768D7, -15px -15px #0768D7, -16px -16px #0768D7, -17px -17px #0768D7, -18px -18px #0768D7, -19px -19px #0768D7, -20px -20px #0768D7, -21px -21px #0768D7, -22px -22px #0768D7, -23px -23px #0768D7, -24px -24px #0768D7, -25px -25px #0768D7, -26px -26px #0768D7, -27px -27px #0768D7, -28px -28px #0768D7, -29px -29px #0768D7, -30px -30px #0768D7, -31px -31px #0768D7, -32px -32px #0768D7, -33px -33px #0768D7, -34px -34px #0768D7, -35px -35px #0768D7, -36px -36px #0768D7, -37px -37px #0768D7, -38px -38px #0768D7, -39px -39px #0768D7, -40px -40px #0768D7, -41px -41px #0768D7, -42px -42px #0768D7, -43px -43px #0768D7, -44px -44px #0768D7, -45px -45px #0768D7, -46px -46px #0768D7, -47px -47px #0768D7, -48px -48px #0768D7, -49px -49px #0768D7, -50px -50px #0768D7;
+}
+
+.lol {
+  font-size: 20px;
+  text-decoration: underline;
+  position: absolute;
+  right: 20px;
+  bottom: 20px;
+  color: purple;
+}
+
+.container {
+  font-family: "Roboto", serif;
+  margin: 0 auto;
+  width: 100%;
+  height: 100%;
+  padding-top: 80px;
+  font-size: 200px;
+  text-align: center;
+}
+
+#rahul {
+  margin-top: 100px;
+  color: #357edd;
+  transform: rotate3d(1, 0, 1, 365deg);
+  text-shadow: 0px 0px black, -1px -1px black, -2px -2px black, -3px -3px black, -4px -4px black, -5px -5px black, -6px -6px black, -7px -7px black, -8px -8px black, -9px -9px black, -10px -10px black, -11px -11px black, -12px -12px black, -13px -13px black, -14px -14px black, -15px -15px black, -16px -16px black, -17px -17px black, -18px -18px black, -19px -19px black, -20px -20px black, -21px -21px black, -22px -22px black, -23px -23px black, -24px -24px black, -25px -25px black, -26px -26px black, -27px -27px black, -28px -28px black;
+}
+
+#rahul:hover {
+  text-shadow: 0px 0px black, -1px -1px black, -2px -2px black, -3px -3px black, -4px -4px black, -5px -5px black, -6px -6px black, -7px -7px black, -8px -8px black, -9px -9px black, -10px -10px black, -11px -11px black, -12px -12px black, -13px -13px black, -14px -14px black, -15px -15px black, -16px -16px black, -17px -17px black, -18px -18px black, -19px -19px black, -20px -20px black, -21px -21px black, -22px -22px black, -23px -23px black, -24px -24px black, -25px -25px black, -26px -26px black, -27px -27px black, -28px -28px black, -29px -29px black, -30px -30px black, -31px -31px black, -32px -32px black, -33px -33px black, -34px -34px black, -35px -35px black, -36px -36px black, -37px -37px black, -38px -38px black, -39px -39px black, -40px -40px black, -41px -41px black, -42px -42px black, -43px -43px black, -44px -44px black, -45px -45px black, -46px -46px black, -47px -47px black, -48px -48px black, -49px -49px black, -50px -50px black;
+  transform: rotate3d(1, 0, 1, 355deg);
+}
+
+/*# sourceMappingURL=style.css.map */
