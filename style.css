@@ -29,6 +29,15 @@ a {
   text-shadow: 0px 0px #0768D7, -1px -1px #0768D7, -2px -2px #0768D7, -3px -3px #0768D7, -4px -4px #0768D7, -5px -5px #0768D7, -6px -6px #0768D7, -7px -7px #0768D7, -8px -8px #0768D7, -9px -9px #0768D7, -10px -10px #0768D7, -11px -11px #0768D7, -12px -12px #0768D7, -13px -13px #0768D7, -14px -14px #0768D7, -15px -15px #0768D7, -16px -16px #0768D7, -17px -17px #0768D7, -18px -18px #0768D7, -19px -19px #0768D7, -20px -20px #0768D7, -21px -21px #0768D7, -22px -22px #0768D7, -23px -23px #0768D7, -24px -24px #0768D7, -25px -25px #0768D7, -26px -26px #0768D7, -27px -27px #0768D7, -28px -28px #0768D7, -29px -29px #0768D7, -30px -30px #0768D7, -31px -31px #0768D7, -32px -32px #0768D7, -33px -33px #0768D7, -34px -34px #0768D7, -35px -35px #0768D7, -36px -36px #0768D7, -37px -37px #0768D7, -38px -38px #0768D7, -39px -39px #0768D7, -40px -40px #0768D7, -41px -41px #0768D7, -42px -42px #0768D7, -43px -43px #0768D7, -44px -44px #0768D7, -45px -45px #0768D7, -46px -46px #0768D7, -47px -47px #0768D7, -48px -48px #0768D7, -49px -49px #0768D7, -50px -50px #0768D7;
 }
 
+
+img {
+  padding-top: 20vh;
+  max-width:100%;
+  max-height:100%;
+  width: 500px;
+}
+
+
 .lol {
   font-size: 20px;
   text-decoration: underline;
